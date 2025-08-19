@@ -1,0 +1,4 @@
+# Task 3_14
+# Count how many times the letter "a" appears in "Banana"
+fruit = "Banana"
+print(fruit.count("a"))
